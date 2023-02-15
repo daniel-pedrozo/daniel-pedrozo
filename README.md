@@ -1,8 +1,8 @@
-<h1 align="center"> Salve ∅_∅ </h1>
+<h1 align="center"> Seja bem vinddo ao meu perfil!!!</h1>
 
 <div align="center">
  
-  <p>Seja bem vinddo ao meu perfil!!!</p>
+
  <h1> Meu nome é Daniel e estou estudando Ensino Médio Técnico em Desenvolvimento de Sistemas </h1>
  <h1>Fique a vontade!</h1>
   
