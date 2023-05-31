@@ -7,7 +7,7 @@
   <br>
  
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanilinho22&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&card_width=290" alt="Linguagens de fanilinho22" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanilinho22&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&card_width=290" exclude_repo=AulaRecycler,__Portifolio__  alt="Linguagens de fanilinho22" align="left" />
 
 
  
