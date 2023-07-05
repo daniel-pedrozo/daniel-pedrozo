@@ -11,15 +11,18 @@
      alt="Linguagens de fanilinho22" align="left" />
 
 
-<h3>Linguagens mais usadas</h3>
+<h3>Linguagens usadas!</h3>
 
 ![python-icon](https://github.com/fanilinho22/fanilinho22/assets/102592017/0fb976c3-a86e-4b55-ab0a-bec3bac481b8)
 ![java-icon](https://github.com/fanilinho22/fanilinho22/assets/102592017/23001993-8f97-451e-b834-0fb615392e91)
 
+<br>
+<br>
+<br>
 <h3>entre em contato via:</h3>
-<h4>email | daniel_pedrozo1@sesisenai.org.br</h4>
+<h4>Email | daniel_pedrozo1@sesisenai.org.br</h4>
 <h4>Instagran | @d_pedrozo22</h4>
-<h4>Linkedin | </h4>
+<h4>Linkedin | Daniel Pedrozo </h4>
  
 ![snake gif](https://github.com/fanilinho22/fanilinho22/blob/output/github-contribution-grid-snake.svg)
 </div>
