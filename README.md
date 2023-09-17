@@ -23,6 +23,4 @@
 <h4>Email | daniel_pedrozo1@sesisenai.org.br</h4>
 <h4>Instagran | @d_pedrozo22</h4>
 <h4>Linkedin | Daniel Pedrozo </h4>
- 
-![snake gif](https://github.com/fanilinho22/fanilinho22/blob/output/github-contribution-grid-snake.svg)
 </div>
