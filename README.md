@@ -19,8 +19,8 @@
 <br>
 <br>
 <br>
-<h3>entre em contato via:</h3>
-<h4>Email | daniel_pedrozo1@sesisenai.org.br</h4>
+<h3>contato</h3>
+<h4>Email | daniel.pedrozo8266@gmail.com</h4>
 <h4>Instagran | @d_pedrozo22</h4>
 <h4>Linkedin | Daniel Pedrozo </h4>
 </div>
