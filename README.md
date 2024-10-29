@@ -2,9 +2,8 @@
 
 <div align="center">
 
- <h3> Meu nome é Daniel e estou no Ensino Médio Técnico em Desenvolvimento de Sistemas </h3>
- <h3>Fique a vontade!</h3>
-  <br>
+ <h2> Prazer, Daniel ✌️</h2>
+
  
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanilinho22&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&exclude_repo=AulaRecycler,Login_e_cadastro&title_color=FFFFFF&text__color=FFFFFF&layout=compact&card_width=290"
