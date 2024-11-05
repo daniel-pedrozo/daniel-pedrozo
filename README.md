@@ -1,25 +1,78 @@
-<h1 align="center"> Seja bem vindo ao meu perfil!</h1>
-
-<div align="center">
-
- <h2> Prazer, Daniel ✌️</h2>
-
- 
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanilinho22&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&exclude_repo=AulaRecycler,Login_e_cadastro&title_color=FFFFFF&text__color=FFFFFF&layout=compact&card_width=290"
-     alt="Linguagens de fanilinho22" align="left" />
+# Hello, I'm Daniel 👋🏻
+<a href="www.linkedin.com/in/daniel-pedrozo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-<h3>Linguagens usadas!</h3>
+With a strong focus on digital security, I am constantly seeking knowledge and developing skills in this field. My goal is to work on projects that aim to strengthen data and system protection, mitigating risks and ensuring business continuity. I believe my education and experience allow me to contribute significantly to building a more secure and resilient digital world.
 
-![python-icon](https://github.com/fanilinho22/fanilinho22/assets/102592017/0fb976c3-a86e-4b55-ab0a-bec3bac481b8)
-![java-icon](https://github.com/fanilinho22/fanilinho22/assets/102592017/23001993-8f97-451e-b834-0fb615392e91)
+</br>
 
-<br>
-<br>
-<br>
-<h3>contato</h3>
-<h4>Email | daniel.pedrozo8266@gmail.com</h4>
-<h4>Instagran | @d_pedrozo22</h4>
-<h4>Linkedin | Daniel Pedrozo </h4>
+## 🎯 Objective
+
+My experience in the IT field has cultivated a deep interest in cybersecurity. I am particularly drawn to defensive security and am eager to contribute to a blue team, where I can actively protect organizations from cyber threats.
+
+</br>
+
+## ⚙️ Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Cybersecurity awareness and creativity         | <a href="https://link-tree-tcs.vercel.app/">Tired Clubs Security Project</a>|
+| To be added | To be added |
+| To be added | To be added |
+| To be added | To be added |
+| To be added | To be added |
+| To be added | To be added |
+
+</br>
+
+## 📦 Tools
+
+
+### **Network**
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-F7E018?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20%20Packet%20Tracer-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+
 </div>
+
+### **Operating systems**
+<div>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+ 
+</div>
+
+### **Programming languages**
+<div>
+    <img src="https://img.shields.io/badge/-Python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnuBash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=ffcc00" />
+    <img src="https://img.shields.io/badge/-HTML-E34C26?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SQL-007DBF?logo=database&style=for-the-badge" />
+</div>
+
+</br>
+
+## 📚 Certifications
+<div>
+    <img src="https://img.shields.io/badge/-CCNA1-007ACC?logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%20Security%20(Cisco)-0277BD?logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Endpoint%20Security%20(Cisco)-4C1A88?logo=Cisco&logoColor=white" />
+ 
+</div>
+
+</br>
+
+## 📁 Projects
+- <a href="https://link-tree-tcs.vercel.app/" >Tired Clubs Security</a>
+- <a href="https://bonnapes-tcc.vercel.app/" >Bonnape - healthy food for every one</a>
+
+</br>
+
+## 📫 Contact
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/daniel-pedrozo/) or send me an [e-mail](mailto:daniel.pedrozo8266@gmail.com).
