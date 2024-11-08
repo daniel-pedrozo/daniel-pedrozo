@@ -18,7 +18,7 @@ My experience in the IT field has cultivated a deep interest in cybersecurity. I
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cybersecurity awareness and creativity         | <a href="https://link-tree-tcs.vercel.app/">Tired Clubs Security Project</a>|
-| To be added | To be added |
+| Creating Cibersecurity tools | <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a> |
 | To be added | To be added |
 | To be added | To be added |
 | To be added | To be added |
@@ -68,9 +68,10 @@ My experience in the IT field has cultivated a deep interest in cybersecurity. I
 
 </br>
 
-## 📁 Projects
+## 📁 Star Projects
 - <a href="https://link-tree-tcs.vercel.app/" >Tired Clubs Security</a>
 - <a href="https://bonnapes-tcc.vercel.app/" >Bonnape - healthy food for every one</a>
+- <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a>
 
 </br>
 
