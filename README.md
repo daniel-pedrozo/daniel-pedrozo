@@ -54,6 +54,7 @@ My experience in the IT field has cultivated a deep interest in cybersecurity. I
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=ffcc00" />
     <img src="https://img.shields.io/badge/-HTML-E34C26?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-SQL-007DBF?logo=database&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge" />
 </div>
 
 </br>
