@@ -1,5 +1,5 @@
 # Hello, I'm Daniel 👋🏻
-<a href="www.linkedin.com/in/daniel-pedrozo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/daniel-pedrozo/">Linkedin</a>
 
 
 With a strong focus on digital security, I am constantly seeking knowledge and developing skills in this field. My goal is to work on projects that aim to strengthen data and system protection, mitigating risks and ensuring business continuity. I believe my education and experience allow me to contribute significantly to building a more secure and resilient digital world.
