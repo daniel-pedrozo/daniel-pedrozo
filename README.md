@@ -19,7 +19,7 @@ My experience in the IT field has cultivated a deep interest in cybersecurity. I
 |-----------------------------------------------|----------------------------|
 | Cybersecurity awareness and creativity         | <a href="https://link-tree-tcs.vercel.app/">Tired Clubs Security Project</a>|
 | Creating Cibersecurity tools | <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a> |
-| Site development | <a href="https://bonnapes-tcc.vercel.app/" >Bonnape - healthy food for every one</a> |
+| Site development | <a href="https://bonnapes-tcc.vercel.app/home" >Bonnape - healthy food for every one</a> |
 
 
 </br>
@@ -69,7 +69,7 @@ My experience in the IT field has cultivated a deep interest in cybersecurity. I
 
 ## 📁 Star Projects
 - <a href="https://link-tree-tcs.vercel.app/" >Tired Clubs Security</a>
-- <a href="https://bonnapes-tcc.vercel.app/" >Bonnape - healthy food for every one</a>
+- <a href="https://bonnapes-tcc.vercel.app/home" >Bonnape - healthy food for every one</a>
 - <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a>
 - <a href="https://github.com/daniel-pedrozo/My-backpack-tools/tree/main/backpack/phishing-site"> Phishing simulation tool</a>
 
