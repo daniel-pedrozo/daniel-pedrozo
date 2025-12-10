@@ -7,7 +7,8 @@ I am passionate about cybersecurity and continuously expanding my knowledge acro
 
 ## 🎯 Objective
 
-My experience in IT has led me to pursue a path in cybersecurity with a strong emphasis on Purple Team practices. I am actively studying both Blue Team (defensive) and Red Team (offensive) techniques to better understand the full attack lifecycle and enhance collaboration between both sides. My goal is to join a team where I can apply this dual perspective helping detect, prevent, and respond to threats while continuously improving security through adversarial simulations and defensive strengthening.
+I am pursuing a cybersecurity path with a strong Purple Team focus, studying both defensive (Blue Team) and offensive (Red Team) techniques. My goal is to apply this dual perspective to strengthen detection, response, and overall security posture within an organization.
+
 </br>
 
 ## ⚙️ Skills
@@ -17,7 +18,7 @@ My experience in IT has led me to pursue a path in cybersecurity with a strong e
 |-----------------------------------------------|----------------------------|
 | Cybersecurity awareness and creativity         | <a href="https://link-tree-tcs.vercel.app/">Tired Clubs Security Project</a>|
 | Creating Cibersecurity tools | <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a> |
-| Site development | <a href="https://bonnapes-tcc.vercel.app/home" >Bonnape - healthy food for every one</a> |
+| Web development | <a href="https://www.tcsecurity.com.br/" >Tired Clubs Security project</a> |
 
 
 </br>
@@ -47,10 +48,7 @@ My experience in IT has led me to pursue a path in cybersecurity with a strong e
 <div>
     <img src="https://img.shields.io/badge/-Python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnuBash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=ffcc00" />
-    <img src="https://img.shields.io/badge/-HTML-E34C26?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-SQL-007DBF?logo=database&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge" />
 </div>
 
 </br>
@@ -66,7 +64,7 @@ My experience in IT has led me to pursue a path in cybersecurity with a strong e
 </br>
 
 ## 📁 Star Projects
-- <a href="https://link-tree-tcs.vercel.app/" >Tired Clubs Security</a>
+- <a href="https://www.tcsecurity.com.br/link-tree" >Tired Clubs Security</a>
 - <a href="https://bonnapes-tcc.vercel.app/home" >Bonnape - healthy food for every one</a>
 - <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a>
 - <a href="https://github.com/daniel-pedrozo/My-backpack-tools/tree/main/backpack/phishing-site"> Phishing simulation tool</a>
