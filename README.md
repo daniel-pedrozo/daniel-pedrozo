@@ -16,7 +16,7 @@ I am pursuing a cybersecurity path with a strong Purple Team focus, studying bot
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cybersecurity awareness and creativity         | <a href="https://link-tree-tcs.vercel.app/">Tired Clubs Security Project</a>|
+| Cybersecurity awareness and creativity         | <a href="https://www.tcsecurity.com.br/link-tree">Tired Clubs Security Project</a>|
 | Creating Cibersecurity tools | <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a> |
 | Web development | <a href="https://www.tcsecurity.com.br/" >Tired Clubs Security project</a> |
 
