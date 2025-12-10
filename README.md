@@ -1,15 +1,13 @@
 # Hello, I'm Daniel 👋🏻
-<a href="https://www.linkedin.com/in/daniel-pedrozo/">Linkedin</a>
 
 
-With a strong focus on digital security, I am constantly seeking knowledge and developing skills in this field. My goal is to work on projects that aim to strengthen data and system protection, mitigating risks and ensuring business continuity. I believe my education and experience allow me to contribute significantly to building a more secure and resilient digital world.
+I am passionate about cybersecurity and continuously expanding my knowledge across both defensive and offensive security domains. My current focus is on developing a strong Purple Team mindset, understanding how attackers operate while also mastering the strategies needed to defend against them. I believe that combining these perspectives allows me to contribute more effectively to strengthening systems, mitigating risks, and improving overall security posture. With my background and ongoing studies, I am committed to helping build a more secure and resilient digital environment.
 
 </br>
 
 ## 🎯 Objective
 
-My experience in the IT field has cultivated a deep interest in cybersecurity. I am particularly drawn to defensive security and am eager to contribute to a blue team, where I can actively protect organizations from cyber threats.
-
+My experience in IT has led me to pursue a path in cybersecurity with a strong emphasis on Purple Team practices. I am actively studying both Blue Team (defensive) and Red Team (offensive) techniques to better understand the full attack lifecycle and enhance collaboration between both sides. My goal is to join a team where I can apply this dual perspective helping detect, prevent, and respond to threats while continuously improving security through adversarial simulations and defensive strengthening.
 </br>
 
 ## ⚙️ Skills
