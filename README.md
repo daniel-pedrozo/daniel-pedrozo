@@ -19,6 +19,7 @@ I am pursuing a cybersecurity path with a strong Purple Team focus, studying bot
 | Cybersecurity awareness and creativity         | <a href="https://www.tcsecurity.com.br/link-tree">Tired Clubs Security Project</a>|
 | Creating Cibersecurity tools | <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a> |
 | Web development | <a href="https://www.tcsecurity.com.br/" >Tired Clubs Security project</a> |
+| Cryptography | <a href="https://github.com/daniel-pedrozo/encrypted.chat" > Encrypted Message Chat </a>
 
 
 </br>
@@ -65,9 +66,10 @@ I am pursuing a cybersecurity path with a strong Purple Team focus, studying bot
 
 ## 📁 Star Projects
 - <a href="https://www.tcsecurity.com.br/link-tree" >Tired Clubs Security</a>
-- <a href="https://bonnapes-tcc.vercel.app/home" >Bonnape - healthy food for every one</a>
-- <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project</a>
+- <a href="https://github.com/daniel-pedrozo/encrypted.chat"> Encrypted Message Chat</a>
+- <a href="https://github.com/daniel-pedrozo/My-backpack-tools"> My backpack tools project - CyberTools</a>
 - <a href="https://github.com/daniel-pedrozo/My-backpack-tools/tree/main/backpack/phishing-site"> Phishing simulation tool</a>
+- <a href="https://bonnapes-tcc.vercel.app/home" >Bonnape - healthy food for every one</a>
 
 </br>
 
